@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ArunKumar-2005
-- 👀 I’m interested in ceh
+- 👀 I’m interested in eh
 - 🌱 I’m currently learning some cool stuffs
 - 💞️ I’m looking to collaborate with anyone
