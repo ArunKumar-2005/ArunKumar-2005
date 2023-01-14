@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArunKumar-2005
+- 👋 Hi, I’m ArunKumar
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning some cool stuffs
 - 💞️ I’m looking to collaborate with anyone
