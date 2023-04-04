@@ -1,4 +1,5 @@
 - 👋 Hi, I’m ArunKumar
-- 👀 I’m interested in cybersecurity
+- 👀 nd, I'm a Non-Certified Ethical Hacker
 - 🔥 I'm currently learning some cool stuffs
-- 🌱 This is my first website https://kesavan.vercel.app/
+- 🌱 This was my first website https://kesavan.vercel.app/
+- 🙏🏾 Thankyou for reading this!
