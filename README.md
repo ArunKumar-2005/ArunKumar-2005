@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ArunKumar
-- 👀 nd, I'm a Non-Certified Ethical Hacker
+- 👀 nd, I'm a Full Stack Web Developer and Non-Certified Hacker
 - 🔥 I'm currently learning some cool stuffs
 - 🌱 This was my first website https://kesavan.vercel.app/
 - 🙏🏾 Thankyou for reading this!
